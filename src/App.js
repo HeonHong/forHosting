@@ -89,7 +89,7 @@ function App() {
             <Routes>
                 <Route element={<Layout auth={auth} />}>
                     <Route
-                        path="/"
+                        path="/forHosting"
                         element={
                             <>
                                 <MainBanner />
