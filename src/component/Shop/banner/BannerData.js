@@ -2,14 +2,14 @@ export default [
     {
         id: 1,
         alt: 'banner1',
-        src: '../bannerImages/banner01.png',
+        src: 'bannerImages/banner01.png',
         current: 1,
         rgb: 'RGB(236, 241, 243)',
     },
     {
         id: 2,
         alt: 'banner2',
-        src: '../bannerImages/banner02.png',
+        src: 'bannerImages/banner02.png',
         current: 2,
         rgb: 'RGB(246, 246, 246)',
     },
